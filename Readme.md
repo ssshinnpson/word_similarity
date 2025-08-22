@@ -23,7 +23,3 @@ Korpora는 품질 좋은 말뭉치를 저장해놓은 오픈소스 파이썬 패
 <br>
 
 <img width="500" height="300" alt="Image" src="./image/result1.png" />
-
-<br>
-
-<img width="500" height="300" alt="Image" src="./image/result2.png" />
